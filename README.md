@@ -4,7 +4,6 @@ Mock-up (Feb 2022). Simple home page of made-up fanclub to experiment with respo
 
 ### Technologies
 
-* JavaScript
 * HTML
 * CSS
 * Git and Github
