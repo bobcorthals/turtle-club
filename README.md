@@ -1,6 +1,6 @@
 # Turtle Club
 
-Mock-up (Feb 2022). Simple home page of made-up fanclub to experiment with responsive web design.
+Mock-up (Feb 2022). Simple home page of made-up fanclub to experiment with responsive web design. Published on [GitHub Pages](https://bobcorthals.github.io/turtle-club/).
 
 ### Technologies
 
